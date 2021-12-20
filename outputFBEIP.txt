@@ -1,0 +1,132 @@
+EIP_Error_SG101 : = IO_1799_CARD_IN[125].State <> 0 OR 
+IO_1799_CARD_IN[126].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG110 : = IO_1799_CARD_IN[173].State <> 0 OR 
+IO_1799_CARD_IN[174].State <> 0 OR 
+IO_1799_CARD_IN[175].State <> 0 OR 
+IO_1799_CARD_IN[176].State <> 0 OR 
+IO_1799_CARD_IN[177].State <> 0 OR 
+IO_1799_CARD_IN[178].State <> 0 OR 
+IO_1799_CARD_IN[179].State <> 0 OR 
+IO_1799_CARD_IN[180].State <> 0 OR 
+IO_1799_CARD_IN[181].State <> 0 OR 
+IO_1799_CARD_IN[182].State <> 0 OR 
+IO_1799_CARD_IN[183].State <> 0 OR 
+IO_1799_CARD_IN[184].State <> 0 OR 
+IO_1799_CARD_IN[185].State <> 0 OR 
+IO_1799_CARD_IN[186].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG111 : = IO_1799_CARD_IN[187].State <> 0 OR 
+IO_1799_CARD_IN[188].State <> 0 OR 
+IO_1799_CARD_IN[189].State <> 0 OR 
+IO_1799_CARD_IN[190].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG201 : = IO_1799_CARD_IN[122].State <> 0 OR 
+IO_1799_CARD_IN[123].State <> 0 OR 
+IO_1799_CARD_IN[124].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG210 : = IO_1799_CARD_IN[157].State <> 0 OR 
+IO_1799_CARD_IN[158].State <> 0 OR 
+IO_1799_CARD_IN[159].State <> 0 OR 
+IO_1799_CARD_IN[160].State <> 0 OR 
+IO_1799_CARD_IN[161].State <> 0 OR 
+IO_1799_CARD_IN[162].State <> 0 OR 
+IO_1799_CARD_IN[163].State <> 0 OR 
+IO_1799_CARD_IN[164].State <> 0 OR 
+IO_1799_CARD_IN[165].State <> 0 OR 
+IO_1799_CARD_IN[166].State <> 0 OR 
+IO_1799_CARD_IN[167].State <> 0 OR 
+IO_1799_CARD_IN[168].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG211 : = IO_1799_CARD_IN[169].State <> 0 OR 
+IO_1799_CARD_IN[170].State <> 0 OR 
+IO_1799_CARD_IN[171].State <> 0 OR 
+IO_1799_CARD_IN[172].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG301 : = IO_1799_CARD_IN[121].State <> 0 OR 
+
+ 
+ 
+ EIP_Error_SG310 : = IO_1799_CARD_IN[141].State <> 0 OR 
+IO_1799_CARD_IN[142].State <> 0 OR 
+IO_1799_CARD_IN[143].State <> 0 OR 
+IO_1799_CARD_IN[144].State <> 0 OR 
+IO_1799_CARD_IN[145].State <> 0 OR 
+IO_1799_CARD_IN[146].State <> 0 OR 
+IO_1799_CARD_IN[147].State <> 0 OR 
+IO_1799_CARD_IN[148].State <> 0 OR 
+IO_1799_CARD_IN[149].State <> 0 OR 
+IO_1799_CARD_IN[150].State <> 0 OR 
+IO_1799_CARD_IN[151].State <> 0 OR 
+IO_1799_CARD_IN[152].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG311 : = IO_1799_CARD_IN[153].State <> 0 OR 
+IO_1799_CARD_IN[154].State <> 0 OR 
+IO_1799_CARD_IN[155].State <> 0 OR 
+IO_1799_CARD_IN[156].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG401 : = IO_1799_CARD_IN[120].State <> 0 OR 
+
+ 
+ 
+ EIP_Error_SG410 : = IO_1799_CARD_IN[127].State <> 0 OR 
+IO_1799_CARD_IN[128].State <> 0 OR 
+IO_1799_CARD_IN[129].State <> 0 OR 
+IO_1799_CARD_IN[130].State <> 0 OR 
+IO_1799_CARD_IN[131].State <> 0 OR 
+IO_1799_CARD_IN[132].State <> 0 OR 
+IO_1799_CARD_IN[133].State <> 0 OR 
+IO_1799_CARD_IN[134].State <> 0 OR 
+IO_1799_CARD_IN[135].State <> 0 OR 
+IO_1799_CARD_IN[136].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG411 : = IO_1799_CARD_IN[138].State <> 0 OR 
+IO_1799_CARD_IN[139].State <> 0 OR 
+IO_1799_CARD_IN[140].State <> 0 ; 
+
+ 
+ 
+ 
+ 
+ 
+ EIP_Error_SG700 : = IO_1799_CARD_IN[207].State <> 0 OR 
+IO_1799_CARD_IN[208].State <> 0 OR 
+IO_1799_CARD_IN[209].State <> 0 OR 
+IO_1799_CARD_IN[210].State <> 0 OR 
+IO_1799_CARD_IN[211].State <> 0 OR 
+IO_1799_CARD_IN[212].State <> 0 OR 
+IO_1799_CARD_IN[213].State <> 0 OR 
+IO_1799_CARD_IN[214].State <> 0 OR 
+IO_1799_CARD_IN[215].State <> 0 OR 
+IO_1799_CARD_IN[216].State <> 0 ; 
+
+ 
+ 
+ EIP_Error_SG701 : = IO_1799_CARD_IN[217].State <> 0 OR 
+IO_1799_CARD_IN[218].State <> 0 OR 
+IO_1799_CARD_IN[219].State <> 0 OR 
+IO_1799_CARD_IN[220].State <> 0 OR 
+IO_1799_CARD_IN[221].State <> 0 OR 
+IO_1799_CARD_IN[222].State <> 0 ; 
+
+ 
+ 
+ 
